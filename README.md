@@ -3,7 +3,7 @@
 This project is a simple URL shortener using Node.js and MongoDB.
 
 ## Preview
-![Short URL Screenshot](images/shorturl.png)
+![Short URL Screenshot](/URLShortner.png)
 
 ## How to Use
 1. Enter a long URL.
